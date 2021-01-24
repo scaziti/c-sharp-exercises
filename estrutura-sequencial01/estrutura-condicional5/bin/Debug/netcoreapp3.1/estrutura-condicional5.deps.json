@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "estrutura-condicional5/1.0.0": {
+        "runtime": {
+          "estrutura-condicional5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estrutura-condicional5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

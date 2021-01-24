@@ -1,0 +1,13 @@
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\bin\Debug\netcoreapp3.1\estrutura-sequencial03.exe
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\bin\Debug\netcoreapp3.1\estrutura-sequencial03.deps.json
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\bin\Debug\netcoreapp3.1\estrutura-sequencial03.runtimeconfig.json
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\bin\Debug\netcoreapp3.1\estrutura-sequencial03.runtimeconfig.dev.json
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\bin\Debug\netcoreapp3.1\estrutura-sequencial03.dll
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\bin\Debug\netcoreapp3.1\estrutura-sequencial03.pdb
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\obj\Debug\netcoreapp3.1\estrutura-sequencial03.csprojAssemblyReference.cache
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\obj\Debug\netcoreapp3.1\estrutura-sequencial03.AssemblyInfoInputs.cache
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\obj\Debug\netcoreapp3.1\estrutura-sequencial03.AssemblyInfo.cs
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\obj\Debug\netcoreapp3.1\estrutura-sequencial03.csproj.CoreCompileInputs.cache
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\obj\Debug\netcoreapp3.1\estrutura-sequencial03.dll
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\obj\Debug\netcoreapp3.1\estrutura-sequencial03.pdb
+C:\Users\Scaziti\source\repos\estrutura-sequencial01\estrutura-sequencial03\obj\Debug\netcoreapp3.1\estrutura-sequencial03.genruntimeconfig.cache

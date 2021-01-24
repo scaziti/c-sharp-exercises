@@ -1,0 +1,13 @@
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\bin\Debug\netcoreapp3.1\estrutura-condicional02.exe
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\bin\Debug\netcoreapp3.1\estrutura-condicional02.deps.json
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\bin\Debug\netcoreapp3.1\estrutura-condicional02.runtimeconfig.json
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\bin\Debug\netcoreapp3.1\estrutura-condicional02.runtimeconfig.dev.json
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\bin\Debug\netcoreapp3.1\estrutura-condicional02.dll
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\bin\Debug\netcoreapp3.1\estrutura-condicional02.pdb
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\obj\Debug\netcoreapp3.1\estrutura-condicional02.csprojAssemblyReference.cache
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\obj\Debug\netcoreapp3.1\estrutura-condicional02.AssemblyInfoInputs.cache
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\obj\Debug\netcoreapp3.1\estrutura-condicional02.AssemblyInfo.cs
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\obj\Debug\netcoreapp3.1\estrutura-condicional02.csproj.CoreCompileInputs.cache
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\obj\Debug\netcoreapp3.1\estrutura-condicional02.dll
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\obj\Debug\netcoreapp3.1\estrutura-condicional02.pdb
+C:\Users\Scaziti\source\repos\estrutura-condicional01\estrutura-condicional02\obj\Debug\netcoreapp3.1\estrutura-condicional02.genruntimeconfig.cache
