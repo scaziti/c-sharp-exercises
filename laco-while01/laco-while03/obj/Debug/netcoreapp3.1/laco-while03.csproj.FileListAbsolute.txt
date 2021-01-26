@@ -1,0 +1,13 @@
+G:\udemy\C#\exercises\laco-while01\laco-while03\bin\Debug\netcoreapp3.1\laco-while03.exe
+G:\udemy\C#\exercises\laco-while01\laco-while03\bin\Debug\netcoreapp3.1\laco-while03.deps.json
+G:\udemy\C#\exercises\laco-while01\laco-while03\bin\Debug\netcoreapp3.1\laco-while03.runtimeconfig.json
+G:\udemy\C#\exercises\laco-while01\laco-while03\bin\Debug\netcoreapp3.1\laco-while03.runtimeconfig.dev.json
+G:\udemy\C#\exercises\laco-while01\laco-while03\bin\Debug\netcoreapp3.1\laco-while03.dll
+G:\udemy\C#\exercises\laco-while01\laco-while03\bin\Debug\netcoreapp3.1\laco-while03.pdb
+G:\udemy\C#\exercises\laco-while01\laco-while03\obj\Debug\netcoreapp3.1\laco-while03.csprojAssemblyReference.cache
+G:\udemy\C#\exercises\laco-while01\laco-while03\obj\Debug\netcoreapp3.1\laco-while03.AssemblyInfoInputs.cache
+G:\udemy\C#\exercises\laco-while01\laco-while03\obj\Debug\netcoreapp3.1\laco-while03.AssemblyInfo.cs
+G:\udemy\C#\exercises\laco-while01\laco-while03\obj\Debug\netcoreapp3.1\laco-while03.csproj.CoreCompileInputs.cache
+G:\udemy\C#\exercises\laco-while01\laco-while03\obj\Debug\netcoreapp3.1\laco-while03.dll
+G:\udemy\C#\exercises\laco-while01\laco-while03\obj\Debug\netcoreapp3.1\laco-while03.pdb
+G:\udemy\C#\exercises\laco-while01\laco-while03\obj\Debug\netcoreapp3.1\laco-while03.genruntimeconfig.cache
