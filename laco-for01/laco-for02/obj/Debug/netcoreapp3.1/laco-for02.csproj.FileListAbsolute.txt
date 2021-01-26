@@ -1,0 +1,13 @@
+G:\udemy\C#\exercises\laco-for01\laco-for02\bin\Debug\netcoreapp3.1\laco-for02.exe
+G:\udemy\C#\exercises\laco-for01\laco-for02\bin\Debug\netcoreapp3.1\laco-for02.deps.json
+G:\udemy\C#\exercises\laco-for01\laco-for02\bin\Debug\netcoreapp3.1\laco-for02.runtimeconfig.json
+G:\udemy\C#\exercises\laco-for01\laco-for02\bin\Debug\netcoreapp3.1\laco-for02.runtimeconfig.dev.json
+G:\udemy\C#\exercises\laco-for01\laco-for02\bin\Debug\netcoreapp3.1\laco-for02.dll
+G:\udemy\C#\exercises\laco-for01\laco-for02\bin\Debug\netcoreapp3.1\laco-for02.pdb
+G:\udemy\C#\exercises\laco-for01\laco-for02\obj\Debug\netcoreapp3.1\laco-for02.csprojAssemblyReference.cache
+G:\udemy\C#\exercises\laco-for01\laco-for02\obj\Debug\netcoreapp3.1\laco-for02.AssemblyInfoInputs.cache
+G:\udemy\C#\exercises\laco-for01\laco-for02\obj\Debug\netcoreapp3.1\laco-for02.AssemblyInfo.cs
+G:\udemy\C#\exercises\laco-for01\laco-for02\obj\Debug\netcoreapp3.1\laco-for02.csproj.CoreCompileInputs.cache
+G:\udemy\C#\exercises\laco-for01\laco-for02\obj\Debug\netcoreapp3.1\laco-for02.dll
+G:\udemy\C#\exercises\laco-for01\laco-for02\obj\Debug\netcoreapp3.1\laco-for02.pdb
+G:\udemy\C#\exercises\laco-for01\laco-for02\obj\Debug\netcoreapp3.1\laco-for02.genruntimeconfig.cache
