@@ -1,0 +1,13 @@
+G:\udemy\C#\exercises\matrizes01\matrizes02\bin\Debug\netcoreapp3.1\matrizes02.exe
+G:\udemy\C#\exercises\matrizes01\matrizes02\bin\Debug\netcoreapp3.1\matrizes02.deps.json
+G:\udemy\C#\exercises\matrizes01\matrizes02\bin\Debug\netcoreapp3.1\matrizes02.runtimeconfig.json
+G:\udemy\C#\exercises\matrizes01\matrizes02\bin\Debug\netcoreapp3.1\matrizes02.runtimeconfig.dev.json
+G:\udemy\C#\exercises\matrizes01\matrizes02\bin\Debug\netcoreapp3.1\matrizes02.dll
+G:\udemy\C#\exercises\matrizes01\matrizes02\bin\Debug\netcoreapp3.1\matrizes02.pdb
+G:\udemy\C#\exercises\matrizes01\matrizes02\obj\Debug\netcoreapp3.1\matrizes02.csprojAssemblyReference.cache
+G:\udemy\C#\exercises\matrizes01\matrizes02\obj\Debug\netcoreapp3.1\matrizes02.AssemblyInfoInputs.cache
+G:\udemy\C#\exercises\matrizes01\matrizes02\obj\Debug\netcoreapp3.1\matrizes02.AssemblyInfo.cs
+G:\udemy\C#\exercises\matrizes01\matrizes02\obj\Debug\netcoreapp3.1\matrizes02.csproj.CoreCompileInputs.cache
+G:\udemy\C#\exercises\matrizes01\matrizes02\obj\Debug\netcoreapp3.1\matrizes02.dll
+G:\udemy\C#\exercises\matrizes01\matrizes02\obj\Debug\netcoreapp3.1\matrizes02.pdb
+G:\udemy\C#\exercises\matrizes01\matrizes02\obj\Debug\netcoreapp3.1\matrizes02.genruntimeconfig.cache
