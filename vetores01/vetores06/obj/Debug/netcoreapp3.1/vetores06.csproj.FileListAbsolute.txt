@@ -1,0 +1,12 @@
+G:\udemy\C#\exercises\vetores01\vetores06\bin\Debug\netcoreapp3.1\vetores06.exe
+G:\udemy\C#\exercises\vetores01\vetores06\bin\Debug\netcoreapp3.1\vetores06.deps.json
+G:\udemy\C#\exercises\vetores01\vetores06\bin\Debug\netcoreapp3.1\vetores06.runtimeconfig.json
+G:\udemy\C#\exercises\vetores01\vetores06\bin\Debug\netcoreapp3.1\vetores06.runtimeconfig.dev.json
+G:\udemy\C#\exercises\vetores01\vetores06\bin\Debug\netcoreapp3.1\vetores06.dll
+G:\udemy\C#\exercises\vetores01\vetores06\bin\Debug\netcoreapp3.1\vetores06.pdb
+G:\udemy\C#\exercises\vetores01\vetores06\obj\Debug\netcoreapp3.1\vetores06.AssemblyInfoInputs.cache
+G:\udemy\C#\exercises\vetores01\vetores06\obj\Debug\netcoreapp3.1\vetores06.AssemblyInfo.cs
+G:\udemy\C#\exercises\vetores01\vetores06\obj\Debug\netcoreapp3.1\vetores06.csproj.CoreCompileInputs.cache
+G:\udemy\C#\exercises\vetores01\vetores06\obj\Debug\netcoreapp3.1\vetores06.dll
+G:\udemy\C#\exercises\vetores01\vetores06\obj\Debug\netcoreapp3.1\vetores06.pdb
+G:\udemy\C#\exercises\vetores01\vetores06\obj\Debug\netcoreapp3.1\vetores06.genruntimeconfig.cache
