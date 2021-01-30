@@ -1,0 +1,13 @@
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\bin\Debug\netcoreapp3.1\object-oriented-programming.exe
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\bin\Debug\netcoreapp3.1\object-oriented-programming.deps.json
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\bin\Debug\netcoreapp3.1\object-oriented-programming.runtimeconfig.json
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\bin\Debug\netcoreapp3.1\object-oriented-programming.runtimeconfig.dev.json
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\bin\Debug\netcoreapp3.1\object-oriented-programming.dll
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\bin\Debug\netcoreapp3.1\object-oriented-programming.pdb
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\obj\Debug\netcoreapp3.1\object-oriented-programming.csprojAssemblyReference.cache
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\obj\Debug\netcoreapp3.1\object-oriented-programming.AssemblyInfoInputs.cache
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\obj\Debug\netcoreapp3.1\object-oriented-programming.AssemblyInfo.cs
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\obj\Debug\netcoreapp3.1\object-oriented-programming.csproj.CoreCompileInputs.cache
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\obj\Debug\netcoreapp3.1\object-oriented-programming.dll
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\obj\Debug\netcoreapp3.1\object-oriented-programming.pdb
+G:\udemy\C#\exercises\orientacao-objeto\object-oriented-programming\obj\Debug\netcoreapp3.1\object-oriented-programming.genruntimeconfig.cache

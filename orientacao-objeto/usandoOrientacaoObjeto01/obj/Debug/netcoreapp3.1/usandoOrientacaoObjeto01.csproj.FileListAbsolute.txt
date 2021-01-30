@@ -1,0 +1,13 @@
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\bin\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.exe
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\bin\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.deps.json
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\bin\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.runtimeconfig.json
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\bin\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.runtimeconfig.dev.json
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\bin\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.dll
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\bin\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.pdb
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\obj\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.csprojAssemblyReference.cache
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\obj\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.AssemblyInfoInputs.cache
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\obj\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.AssemblyInfo.cs
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\obj\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.csproj.CoreCompileInputs.cache
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\obj\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.dll
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\obj\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.pdb
+G:\udemy\C#\exercises\orientacao-objeto\usandoOrientacaoObjeto01\obj\Debug\netcoreapp3.1\usandoOrientacaoObjeto01.genruntimeconfig.cache
